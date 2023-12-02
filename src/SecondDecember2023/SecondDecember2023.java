@@ -6,8 +6,8 @@ public class SecondDecember2023 {
 
     static Scanner s = new Scanner(System.in);
     static int redMax = 12;
-    int greenMax = 13;
-    int blueMax = 14;
+    static int greenMax = 13;
+    static int blueMax = 14;
     static int result = 0;
 
     public static void logic() {
@@ -24,14 +24,30 @@ public class SecondDecember2023 {
 
             for (String t : tokens) {
                 System.out.println(t);
-                if (t.contains("red")) {
-                    if (Integer.parseInt(t.substring(0,1)) > redMax) {
+                if (t.contains("red") && t.length()==5) {
+                    if (Integer.parseInt(t.substring(0,1)) <= redMax) {
                           result = result + id;
+                    }
+                }
+                if (t.contains("red") && t.length()==6) {
+                    if (Integer.parseInt(t.substring(0,2)) <= redMax) {
+                        result = result + id;
+                    }
+                }
+                if (t.contains("green") && t.length()==7) {
+                    if (Integer.parseInt(t.substring(0,1)) <= greenMax) {
+                        result = result + id;
+                    }
+                }
+                if (t.contains("blue") && t.length()==6) {
+                    if (Integer.parseInt(t.substring(0,1)) <= blueMax) {
+                        result = result + id;
                     }
                 }
                 
             }
         }
+        System.out.println("Result: " + result);
     }
 
 
