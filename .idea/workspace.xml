@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46ff7f80-d28a-416d-b43a-d5054547c26f" name="Changes" comment="">
+    <list default="true" id="46ff7f80-d28a-416d-b43a-d5054547c26f" name="Changes" comment="Work on 2. Dec">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SecondDecember2023/SecondDecember2023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondDecember2023/SecondDecember2023.java" afterDir="false" />
     </list>
@@ -32,6 +32,7 @@
 }]]></component>
   <component name="ProjectId" id="2YzELXdMgRhFjaYgIyUdt4HZuPz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -62,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701519954122</updated>
-      <workItem from="1701519955229" duration="2170000" />
+      <workItem from="1701519955229" duration="5179000" />
     </task>
     <task id="LOCAL-00001" summary="Name change to main">
       <option name="closed" value="true" />
@@ -96,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701521495024</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Work on 2. Dec">
+      <option name="closed" value="true" />
+      <created>1701524070882</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701524070882</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +126,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Name change to main" />
     <MESSAGE value="Getting package structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Getting package structure" />
+    <MESSAGE value="Work on 2. Dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="Work on 2. Dec" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
