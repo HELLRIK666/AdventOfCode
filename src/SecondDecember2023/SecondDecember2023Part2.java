@@ -2,7 +2,7 @@ package SecondDecember2023;
 
 import java.util.Scanner;
 
-public class SecondDecember2023 {
+public class SecondDecember2023Part2 {
 
     static Scanner s = new Scanner(System.in);
     static int redMax = 12;
