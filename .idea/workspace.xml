@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46ff7f80-d28a-416d-b43a-d5054547c26f" name="Changes" comment="Work on 2. Dec">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SecondDecember2023/SecondDecember2023Part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondDecember2023/SecondDecember2023Part2.java" afterDir="false" />
-    </list>
+    <list default="true" id="46ff7f80-d28a-416d-b43a-d5054547c26f" name="Changes" comment="Work on 2. Dec done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701519954122</updated>
-      <workItem from="1701519955229" duration="15087000" />
+      <workItem from="1701519955229" duration="15570000" />
     </task>
     <task id="LOCAL-00001" summary="Name change to main">
       <option name="closed" value="true" />
@@ -138,7 +135,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701604045064</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Work on 2. Dec done">
+      <option name="closed" value="true" />
+      <created>1701717728150</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701717728150</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Work on 2. Dec done">
+      <option name="closed" value="true" />
+      <created>1701717791927</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701717791927</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +173,8 @@
     <MESSAGE value="Name change to main" />
     <MESSAGE value="Getting package structure" />
     <MESSAGE value="Work on 2. Dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="Work on 2. Dec" />
+    <MESSAGE value="Work on 2. Dec done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Work on 2. Dec done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
