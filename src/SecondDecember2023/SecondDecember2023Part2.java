@@ -21,12 +21,12 @@ public class SecondDecember2023Part2 {
             strWithoutGame = tokens1[1];
 
             String[] tokens = strWithoutGame.split("[,;]");
-            int powerRed = 0;
-            int powerGreen = 0;
-            int powerBlue = 0;
-            ArrayList<Integer> redList = new ArrayList<Integer>();
-            ArrayList<Integer> greenList = new ArrayList<Integer>();
-            ArrayList<Integer> blueList = new ArrayList<Integer>();
+            int powerRed;
+            int powerGreen;
+            int powerBlue;
+            ArrayList<Integer> redList = new ArrayList<>();
+            ArrayList<Integer> greenList = new ArrayList<>();
+            ArrayList<Integer> blueList = new ArrayList<>();
 
 
             for (String t : tokens) {
